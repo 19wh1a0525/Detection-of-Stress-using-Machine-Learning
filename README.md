@@ -19,11 +19,11 @@ Dataset:
 kaggle FER2013 dataset - It contains the grayscale images of seven different emotions. The dataset has 35,887 images. The emotions are Happy, Angry, Sad, Disgust, Surprise, Fear and Neutral. 
 
 TechStack:
-imutils
-keras 
-opencv
-flask
-dlib
+1. imutils
+2. keras 
+3. opencv
+4. flask
+5. dlib
 
 Team Members:
 M. Aradya - 19WH1A0525
