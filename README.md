@@ -7,9 +7,13 @@ Procedure:
 This project has three major parts:
 1. Training the dataset using CNN.
 2. Testing the model using live stream.
-3. Deploying the model using Flask API
+3. Deploying the model using Flask API.
+
 For each input image four steps are involved:
-Image Pre-processing, Eyebrow Detection, Lips Detection, Stress Detection
+1.Image Pre-processing
+2.Eyebrow Detection
+3.Lips Detection
+4.Stress Detection
 
 Dataset:
 kaggle FER2013 dataset - It contains the grayscale images of seven different emotions. The dataset has 35,887 images. The emotions are Happy, Angry, Sad, Disgust, Surprise, Fear and Neutral. 
