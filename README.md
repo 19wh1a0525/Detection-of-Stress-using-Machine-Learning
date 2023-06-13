@@ -14,6 +14,9 @@ For each input image four steps are involved:
 3. Lips Detection
 4. Stress Detection
 
+Dataset:
+kaggle FER2013 dataset - It contains the grayscale images of seven different emotions. The dataset has 35,887 images. The emotions are Happy, Angry, Sad, Disgust, Surprise, Fear and Neutral. 
+
 TechStack:
 imutils
 keras 
