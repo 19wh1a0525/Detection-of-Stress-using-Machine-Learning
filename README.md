@@ -26,6 +26,6 @@ TechStack:
 5. dlib
 
 Team Members:
-M. Aradya - 19WH1A0525
-D. Geetika - 19WH1A0530
-Nazmeen Begum - 19WH1A0541
+M. Aradya - 19WH1A0525.
+D. Geetika - 19WH1A0530.
+Nazmeen Begum - 19WH1A0541.
